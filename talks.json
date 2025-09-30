@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of JavaScript",
+    "speakers": ["John Doe"],
+    "category": ["JavaScript", "Web Development"],
+    "duration": 60,
+    "description": "A deep dive into the next features of JavaScript and how they will shape the future of web development."
+  },
+  {
+    "title": "Building Scalable APIs with Node.js",
+    "speakers": ["Jane Smith"],
+    "category": ["Node.js", "API", "Backend"],
+    "duration": 60,
+    "description": "Learn how to design and build APIs that can handle millions of requests."
+  },
+  {
+    "title": "CSS Grid and Flexbox: A Deep Dive",
+    "speakers": ["Peter Jones", "Mary Johnson"],
+    "category": ["CSS", "Frontend"],
+    "duration": 60,
+    "description": "Master the power of CSS Grid and Flexbox to create complex and responsive layouts."
+  },
+  {
+    "title": "Introduction to Machine Learning with TensorFlow.js",
+    "speakers": ["David Lee"],
+    "category": ["Machine Learning", "TensorFlow.js", "JavaScript"],
+    "duration": 60,
+    "description": "Get started with machine learning in the browser with TensorFlow.js."
+  },
+  {
+    "title": "State Management in React with Redux",
+    "speakers": ["Sarah Miller"],
+    "category": ["React", "Redux", "State Management"],
+    "duration": 60,
+    "description": "Learn how to manage complex application state in React with Redux."
+  },
+  {
+    "title": "WebAssembly: The Future of High-Performance Web Apps",
+    "speakers": ["Michael Brown"],
+    "category": ["WebAssembly", "Performance"],
+    "duration": 60,
+    "description": "Discover how WebAssembly is enabling near-native performance in web applications."
+  }
+]
